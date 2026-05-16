@@ -22,3 +22,4 @@ AI → Machine Learning → Deep Learning → Generative AI
 ## Machine Learning Algorithms Framework
 This visual framework highlights 8 machine learning algorithms, their categories, application domains, and real-world use cases, even though there are many more algorithms used across different areas of Artificial Intelligence and Machine Learning. The focus on these selected algorithms provides a foundational understanding of some of the most widely used and impactful approaches in modern AI systems
 
+<img width="1020" height="794" alt="image" src="https://github.com/user-attachments/assets/61abf761-68da-4393-a99e-ba3e29d86b22" />
